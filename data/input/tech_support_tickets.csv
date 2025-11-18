@@ -1,0 +1,8 @@
+ticket_id,title,description,severity,status,created_at,resolved_at,agent
+1001,VPN not connecting,"User cannot connect to corporate VPN from home",High,Resolved,2025-11-10 08:15,2025-11-10 10:45,Alice
+1002,SSO login failing,"SSO returns 500 error for multiple users",Critical,Resolved,2025-11-10 09:00,2025-11-10 16:30,Bob
+1003,Slow database queries,"Reports page very slow for EU region; timeouts in DB",High,Resolved,2025-11-11 11:20,2025-11-12 13:10,Charlie
+1004,Mobile app crash,"App crashes on launch for Android 14 devices",Medium,In Progress,2025-11-12 09:05,,Alice
+1005,Feature request: dark mode,"Customer asks for dark theme in admin portal",Low,New,2025-11-13 14:30,,Diana
+1006,Intermittent network timeout,"Ping spikes and packet loss from APAC office",High,Resolved,2025-11-14 07:45,2025-11-14 12:10,Bob
+1007,Password reset not working,"Reset link expired immediately after sending",Medium,Resolved,2025-11-15 10:00,2025-11-15 11:20,Alice

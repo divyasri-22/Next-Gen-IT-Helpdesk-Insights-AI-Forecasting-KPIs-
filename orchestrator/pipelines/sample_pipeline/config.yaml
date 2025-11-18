@@ -1,0 +1,11 @@
+pipeline_name: sample_pipeline
+
+tasks:
+  - name: say_hello
+    params:
+      message: "Hello from your first orchestrator task"
+
+  - name: add_numbers
+    params:
+      a: 10
+      b: 20

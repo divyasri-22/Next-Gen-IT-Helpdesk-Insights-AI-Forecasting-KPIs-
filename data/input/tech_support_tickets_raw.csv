@@ -1,0 +1,9 @@
+
+ticket_id,customer_id,product_area,issue_type,priority,created_at,first_response_at,resolved_at,status,satisfaction_score
+T-1001,CUST-001,Mobile App,Login failure,High,2025-10-01 09:12,2025-10-01 09:25,2025-10-01 11:05,Resolved,4
+T-1002,CUST-002,Web Portal,Page not loading,Medium,2025-10-01 10:03,2025-10-01 14:18,2025-10-02 15:45,Resolved,5
+T-1003,CUST-001,API,Timeout error,Critical,2025-10-02 08:30,2025-10-02 08:35,2025-10-02 10:10,Resolved,3
+T-1004,CUST-003,Database,Slow query,Low,2025-10-02 09:55,2025-10-02 13:05,2025-10-05 16:20,Resolved,5
+T-1005,CUST-004,Mobile App,Crash on checkout,High,2025-10-03 18:10,2025-10-03 18:30,,Open,
+T-1006,CUST-005,Web Portal,Password reset bug,Medium,2025-10-04 11:42,2025-10-04 12:05,2025-10-06 09:00,Resolved,2
+T-1007,CUST-006,API,Rate limit error,High,2025-10-05 07:20,2025-10-05 07:45,2025-10-05 13:15,Resolved,4

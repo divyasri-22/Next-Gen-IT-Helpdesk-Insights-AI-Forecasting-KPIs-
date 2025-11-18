@@ -1,0 +1,8 @@
+ticket_id,summary,severity,component,status,created_at,resolved_at,sla_hours
+T-1001,"Login fails for SSO users",High,Auth Service,Closed,2025-10-01 09:13,2025-10-01 13:45,4
+T-1002,"API returns 500 on /orders endpoint",Critical,Orders API,Closed,2025-10-02 11:05,2025-10-02 14:20,3
+T-1003,"UI freezes when opening dashboard",Medium,Web Dashboard,In Progress,2025-10-03 08:30,,8
+T-1004,"Background job stuck in retry loop",High,Job Worker,Closed,2025-10-04 02:15,2025-10-04 18:40,6
+T-1005,"Metrics exporter missing memory usage",Low,Monitoring Agent,Closed,2025-10-05 10:00,2025-10-06 09:10,24
+T-1006,"Search results are very slow",High,Search Service,Closed,2025-10-06 16:45,2025-10-07 01:00,10
+T-1007,"Websocket disconnects frequently",Medium,Realtime Gateway,Closed,2025-10-07 12:20,2025-10-08 16:55,12
